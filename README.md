@@ -1,2 +1,8 @@
 # ms274
-A repo for MS 274 code
+
+## Repo Overview
+This repo is to get familiar with Github.
+
+`
+This is some code
+`
