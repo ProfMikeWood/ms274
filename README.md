@@ -1,4 +1,4 @@
-# ms274
+# Marine Science 274
 
 ## Repo Overview
 This repo is to get familiar with Github.
